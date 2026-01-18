@@ -1,4 +1,6 @@
-# adeus de ninar
+# manicela 
+
+EP de rap filisofico experimental.
 
 # sonografia
 samples:
